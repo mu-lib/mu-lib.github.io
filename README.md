@@ -3,6 +3,7 @@
 A collection of micro libraries
 
 - [changelog](CHANGELOG.md)
+
 ## Libraries
 
 - [mu-jquery-app](mu-jquery-app/)
