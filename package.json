@@ -1,0 +1,22 @@
+{
+  "name": "mu-lib.github.io",
+  "version": "0.0.0",
+  "description": "A collection of micro libraries",
+  "main": "README.md",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mu-lib/mu-lib.github.io.git"
+  },
+  "author": "Mikael Karon <mikael@karon.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mu-lib/mu-lib.github.io/issues"
+  },
+  "homepage": "https://github.com/mu-lib/mu-lib.github.io#readme",
+  "devDependencies": {
+    "standard-version": "^4.2.0"
+  }
+}
