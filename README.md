@@ -14,3 +14,4 @@ A collection of micro libraries
   - [mu-jquery-crank](mu-jquery-crank/)
   - [mu-jquery-loom](mu-jquery-loom/)
 - [mu-template](mu-template/)
+- [mu-selector-set](mu-selector-set/)
